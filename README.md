@@ -1,4 +1,4 @@
-# Pensieve
+# Reinforcement Learning based ABR VR Video Streaming
 Pensieve is a system that generates adaptive bitrate algorithms using reinforcement learning.
 http://web.mit.edu/pensieve/
 
