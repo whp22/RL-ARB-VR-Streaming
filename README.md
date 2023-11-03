@@ -1,5 +1,5 @@
 # Reinforcement Learning based ABR VR Video Streaming
-The project is based on Pensieve, aframe and dash.js (http://web.mit.edu/pensieve/)
+The project is based on Pensieve (http://web.mit.edu/pensieve/), aframe and dash.js
 
 ### Prerequisites
 - Install prerequisites (tested with Ubuntu 16.04, Tensorflow v1.1.0, TFLearn v0.3.1 and Selenium v2.39.0)
